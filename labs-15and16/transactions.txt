@@ -1,0 +1,23 @@
+Price: $                                          1.25
+Money inserted: $                                 1.9
+Change:
+Quarters: $                                       2
+Dimes: $                                          1
+Nickles: $                                        1
+Pennies: $                                        0
+********************
+
+Price: $                                          1.25
+Money inserted: $                                 2.6
+Change:
+Quarters: $                                       5
+Dimes: $                                          1
+Nickles: $                                        0
+Pennies: $                                        0
+********************
+
+Price: $                                          2
+Money inserted: $                                 2
+No Change:
+********************
+
